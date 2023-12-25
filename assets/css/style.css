@@ -101,7 +101,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #cc1616;
+  border: 6px solid rgb(239, 239, 23);
   border-top-color: #efefef;
   border-radius: 50%;
   width: 60px;
